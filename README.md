@@ -8,3 +8,4 @@
  I am hoping to learn more about parallelism and pipelining to see if I can improve my current attempt. I will also be a SWE intern at JS next summer so I hope to learn more about hardcaml then!!
 
 Commands: dune build && runtest
+Credit: Used https://github.com/janestreet/hardcaml_template_project as a starting template
